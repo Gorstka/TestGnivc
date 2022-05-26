@@ -1,0 +1,6 @@
+[debug] > Exec(libraryDependencies += "com.github.tototoshi" %% "scala-csv" % "1.3.10", None, None)
+[error] Expected whitespace character
+[error] Expected '/'
+[error] libraryDependencies += "com.github.tototoshi" %% "scala-csv" % "1.3.10"
+[error]                     ^
+[debug] > Exec(idea-shell, None, None)
